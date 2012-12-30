@@ -1,0 +1,29 @@
+# Site Configuration
+title: Better Apps for a Better World
+number: CSC 186
+tagline: Apps are made by people like you.
+markdown: kramdown
+# This is the date that we render "upto."
+upto: "20140122"
+
+# Paths
+## There are no heirarchies of variables; therefore, every
+## path must be complete. A search-replace is necessary with
+## any change to base.
+base: /teaching/ba4abw-sp13
+media: /teaching/ba4abw-sp13/media
+    
+# Shortcuts
+pdf: <img src="/teaching/ba4abw-sp13/images/mini-pdf.png" />
+word: <img src="/teaching/ba4abw-sp13/images/mini-word.png" />
+  
+# Server Config
+permalink: /:categories/:title
+
+# My Config
+# This needs to be expanded for team-taught courses.
+phone: 925-238-3692
+officehours: M 9:30-11:30, T 13:30-15:30, by appt.
+short: BA4ABW
+designation: CSC 186
+prof-url: http://www.berea.edu/csc/matt-jadud/

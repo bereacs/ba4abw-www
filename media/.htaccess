@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Readings for Computer Organization @ Berea College"
+AuthUserFile /home/jadudm/conf/berea.pass
+Require user berea mountaineer
