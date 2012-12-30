@@ -28,14 +28,14 @@ h1 {
   font-size:28px;
   /* background-image: url({{site.base}}/images/heading-background.png); */
   /* background: #DDDDDD; */
-  box-shadow: 1px 1px 6px #f33;
+  box-shadow: 1px 1px 6px {{site.borders}};
   padding: 10px;
   
 }
 
 h2 {
   color:#393939;
-  border-bottom: #f33;
+  border-bottom: {{site.borders}};
   border-style: solid;
   padding-bottom: 4px;
   border-width: 0px 0px 2px 0px;
@@ -47,7 +47,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#C33;
+  color:{{site.links}};
   font-weight:400;
   text-decoration:none;
 }

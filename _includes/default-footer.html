@@ -1,9 +1,16 @@
 <p>
   <small>
   This website is provided under a CC BY-SA license by the 
-  <a href="http://github.com/bereacs/babw">The Berea CS Department</a>.
+  <a href="{{site.berea-cs-url}}">The Berea CS Department</a>.
   <br/>
-    Spring 2013 offering of {{site.short}} taught by <a href="{{site.prof_url}}">Matt Jadud</a>
+    Spring 2013 offering of {{site.short}} taught by 
+    {% for p in site.prof-names %}
+      <a href="{{site.prof-urls[forloop.index0]}}">{{p}}</a>
+      {% if forloop.rindex0 != 0 %}
+      ,
+      {% endif %}
+    {% endfor %}
+
     <br/>
     Theme by <a href="https://github.com/orderedlist">orderedlist</a>
       </small>

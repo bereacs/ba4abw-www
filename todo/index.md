@@ -23,7 +23,7 @@ category: assignment
         {% elsif post.category contains 'reading' %}
           <td width="2%"><i style="color: #666666;" class="icon-book icon-huge"></i></td>
         {% elsif post.category contains 'week' %}
-          <td width="2%"><i style="color: #FF3333;" class="icon-calendar icon-huge"></i></td>          
+          <td width="2%"><i style="color: {{site.highlight}};" class="icon-calendar icon-huge"></i></td>          
         {% else %}
           <td width = "2%"></td>
         {% endif %}
