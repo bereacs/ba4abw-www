@@ -15,6 +15,6 @@ To use App Inventor, you need to have a Google or a gmail account.  If you do no
     * First, visit the Java test page at [http://www.java.com/en/download/help/testvm.xml](http://www.java.com/en/download/help/testvm.xml) 
     * You should see a message like the following that Java is working and that the version is up to date:
     
-    ![Java is Working]({{site.base}}/images/java-is-working.png)
+    <img src="{{site.base}}/images/java-is-working.png" />
     
     * Is this still indented?
