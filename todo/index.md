@@ -9,7 +9,6 @@ category: assignment
 <!-- http://fortawesome.github.com/Font-Awesome/#integration --> 
 
 <table>
-  <table>
   {% for post in site.posts %}
     {% capture assignment_date %} {{ post.date | date: "%Y-%m-%d" }} {% endcapture %}
     {% capture subtraction %} {{ post.date | date: "%Y%m%d" | minus: site.upto }} {% endcapture %}
