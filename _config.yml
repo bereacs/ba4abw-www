@@ -21,11 +21,11 @@ strong: "#735"
 ## There are no heirarchies of variables; therefore, every
 ## path must be complete. A search-replace is necessary with
 ## any change to base.
-base: /teaching/ba4abw-sp13
-media: /teaching/ba4abw-sp13/media
+base: /courses/ba4abw-sp13
+media: /courses/ba4abw-sp13/media
 arse:
     expanded: 'Active Reading Support Environment'
-    url: '/teaching/ba4abw-sp13/media/active-reading-support-environment.docx'
+    url: '/courses/ba4abw-sp13/media/active-reading-support-environment.docx'
     version: '1.0'
 
 moodle:
@@ -33,10 +33,10 @@ moodle:
 
 # http://db.tt/zgUQOl6A
 # Shortcuts
-pdf: <img src="/teaching/ba4abw-sp13/images/mini-pdf.png" />
-word: <img src="/teaching/ba4abw-sp13/images/mini-word.png" />
-pdf: '<img src="/teaching/ba4abw-sp13/images/mini-pdf.png" />'
-word: '<img src="/teaching/ba4abw-sp13/images/mini-word.png" />'
+pdf: <img src="/courses/ba4abw-sp13/images/mini-pdf.png" />
+word: <img src="/courses/ba4abw-sp13/images/mini-word.png" />
+pdf: '<img src="/courses/ba4abw-sp13/images/mini-pdf.png" />'
+word: '<img src="/courses/ba4abw-sp13/images/mini-word.png" />'
 group: '<i class="icon-group" style="margin-top: 6px;"></i>'
 lab: '<i class="icon-beaker" style="margin-top: 6px;"></i>'
 reading: '<i class="icon-book" style="margin-top: 6px;"></i>'

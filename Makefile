@@ -1,10 +1,12 @@
-export SITE=teaching/ba4abw-sp13
+export SITE=courses/ba4abw-sp13
 MEDIA=media
+USER=bereamobi
+URI=berea.mobi
   
 upload:
 	jekyll
-	rsync -vaz --exclude week/ -e ssh _site/ jadudm@jadud.com:~/jadud.com/${SITE}
-	scp ${MEDIA}/.htaccess jadudm@jadud.com:~/jadud.com/${SITE}/${MEDIA}/
+	rsync -vaz --exclude week/ -e ssh _site/ ${USER}@${URI}:~/${URI}/${SITE}
+	scp ${MEDIA}/.htaccess ${USER}@${URI}:~/${URI}/${SITE}/${MEDIA}/
 
 commit:
 	git commit -a -m "$M"
