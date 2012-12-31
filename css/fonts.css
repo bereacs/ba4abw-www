@@ -1,18 +1,10 @@
 ---
 ---
-@import url(http://fonts.googleapis.com/css?family=Arvo);
-
 @font-face {
-  font-family: 'Oswald';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Oswald Bold'), local('Oswald-Bold'), url({{site.base}}/font/Oswold-Bold.woff) format('woff');
-}
-@font-face {
-  font-family: 'Montserrat';
+  font-family: 'Arvo';
   font-style: normal;
   font-weight: 400;
-  src: local('Montserrat-Regular'), url({{site.base}}/font/Montserrat-Regular.woff) format('woff');
+  src: local('Arvo'), url({{site.base/font/Arvo.woff}}) format('woff');
 }
 @font-face {
   font-family: 'Droid Sans';
@@ -20,15 +12,3 @@
   font-weight: 400;
   src: local('Droid Sans'), local('DroidSans'), url({{site.base}}/font/DroidSans.woff) format('woff');
 }
-@font-face {
-  font-family: 'Oswald';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Oswald Regular'), local('Oswald-Regular'), url({{site.base}}/font/Oswold-Regular.woff) format('woff');
-}
-@font-face {
-  font-family: 'SMG';
-  font-style: normal;
-  font-weight: 400;
-  src: local('SMG'), url({{site.base}}/font/SMG.otf) format('opentype');
-  }

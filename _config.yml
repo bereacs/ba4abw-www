@@ -1,5 +1,5 @@
 # Render up to...
-upto: "20130122"
+upto: "20130111"
 
 # Site Configuration
 title: Better Apps for a Better World
@@ -24,8 +24,12 @@ strong: "#735"
 base: /teaching/ba4abw-sp13
 media: /teaching/ba4abw-sp13/media
 arse:
+    expanded: 'Active Reading Support Environment'
     url: '/teaching/ba4abw-sp13/media/active-reading-support-environment.docx'
     version: '1.0'
+
+moodle:
+    a1: http://moodle.berea.edu/blahblahblah/vid?1234
 
 # http://db.tt/zgUQOl6A
 # Shortcuts

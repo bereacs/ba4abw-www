@@ -2,7 +2,7 @@
 title: The Active Reading Process
 slug: READING HAS A POSSE... er, process.
 category: infra
-layout: post
+layout: infra
 ---
 
 Reading is not a passive act: if you want to learn from what you read, you need to approach it systematically. That is another way of saying that there is a process to reading when your **goal is to retain, reflect, and understand**.
@@ -70,6 +70,7 @@ For just about every reading assignment, we're going to ask you to download this
 Happy reading!
 
 {% comment %}
+
 ### References
 
 Although it isn't exactly like the above document, you might take a look at the [active reading model](http://www.literacy.org.nz/active-reading-model.php) {{site.pdf}} provided by Literacy Aotearoa, a national literacy organization in New Zealand; it summarizes things in a nifty flowchart, even if they do use different language than we do up above.
