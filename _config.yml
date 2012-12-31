@@ -1,5 +1,5 @@
 # Render up to...
-upto: "20120122"
+upto: "20130122"
 
 # Site Configuration
 title: Better Apps for a Better World
@@ -15,6 +15,7 @@ markdown: kramdown
 borders: "#911"
 highlight: "#C33"
 links: "#B22"
+strong: "#735"
   
 # Paths
 ## There are no heirarchies of variables; therefore, every
@@ -22,12 +23,25 @@ links: "#B22"
 ## any change to base.
 base: /teaching/ba4abw-sp13
 media: /teaching/ba4abw-sp13/media
-    
+arse:
+    url: '/teaching/ba4abw-sp13/media/active-reading-support-environment.docx'
+    version: '1.0'
+
 # http://db.tt/zgUQOl6A
 # Shortcuts
 pdf: <img src="/teaching/ba4abw-sp13/images/mini-pdf.png" />
 word: <img src="/teaching/ba4abw-sp13/images/mini-word.png" />
-  
+pdf: '<img src="/teaching/ba4abw-sp13/images/mini-pdf.png" />'
+word: '<img src="/teaching/ba4abw-sp13/images/mini-word.png" />'
+group: '<i class="icon-group" style="margin-top: 6px;"></i>'
+lab: '<i class="icon-beaker" style="margin-top: 6px;"></i>'
+reading: '<i class="icon-book" style="margin-top: 6px;"></i>'
+prof: '<i class="icon-bullhorn" style="margin-top: 6px;"></i>'
+video: '<i class="icon-camera" style="margin-top: 6px;"></i>'
+download: '<i class="icon-download-alt" style="margin-top: 6px;"></i>'
+cloud: '<i class="icon-cloud" style="margin-top: 6px;"></i>'
+cart: '<i class="icon-shopping-cart" style="margin-top: 6px;"></i>'
+
 # Server Config
 permalink: /:categories/:title
 
