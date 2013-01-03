@@ -23,13 +23,16 @@ strong: "#735"
 ## any change to base.
 base: /courses/ba4abw-sp13
 media: /courses/ba4abw-sp13/media
+
+# FIXME
 arse:
     expanded: 'Active Reading Support Environment'
     url: '/courses/ba4abw-sp13/media/active-reading-support-environment.docx'
     version: '1.0'
 
 moodle:
-    a1: http://moodle.berea.edu/blahblahblah/vid?1234
+    link: '<strong>Moodle Link</strong>: <a href="http://moodle.berea.edu/course/view.php?id=1727">http://moodle.berea.edu/course/view.php?id=1727</a>'
+    root: http://moodle.berea.edu/course/view.php?id=1727 
 
 
 # http://db.tt/zgUQOl6A
