@@ -48,17 +48,19 @@ video: '<i class="icon-camera" style="margin-top: 6px;"> </i>'
 download: '<i class="icon-download-alt" style="margin-top: 6px;"> </i>'
 cloud: '<i class="icon-cloud" style="margin-top: 6px;"> </i>'
 cart: '<i class="icon-shopping-cart" style="margin-top: 6px;"></i>'
+stethoscope: '<i class="icon-stethoscope" style="margin-top: 6px;"></i>'
 
 # Server Config
 permalink: /:categories/:title
 
 # My Config
 # This needs to be expanded for team-taught courses.
-prof-names: ['Matt Jadud', 'Jan Pearce']
-prof-firsts: ['Matt', 'Jan']
+prof-names: ['Dr. Matt Jadud', 'Dr. Jan Pearce']
+prof-firsts: ['Dr. Matt', 'Dr. Jan']
 prof-urls: ['http://www.berea.edu/csc/matt-jadud/', 'http://faculty.berea.edu/pearcej/']
 prof-phones: ['925-238-3692', '859-985-3569']
 prof-offices: ['Danforth 102B', 'Danforth 102C']
 prof-office-hours: ['M 9:30-11:30 and T 13:30-15:30', 'TR 10:00-10:50 and MWF: 9:30-10:20']
 prof-emails: ['jadudm@berea', 'pearcej@berea']
 berea-cs-url: http://cs.berea.edu/
+lab-hours: "7:30 to 9:30 PM"
