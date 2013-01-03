@@ -1,23 +1,29 @@
-* Syllabus
+* Panic
 
-* When are tablets coming? Check with AB
+* Syllabus - both work on this.
+    * Matt: About, edit objectives, 
+    * Jan: Attendence, Technology Policies, 
 
-* How can we project tablets to everyone?
+* Jan: When are tablets coming? Need to hear from AB.
 
-* See google doc with other things. (Move them here.)
+* Matt: How can we project tablets to everyone?
 
-* Get Jan setup with Git.
+* Matt: See google doc with other things. (Move them here.)
 
-* Poke stacked students about syllabus (or, provide a template/suggestion.)
+* Jan: Get Jan setup with website render from Jekyll.
 
-* Do students check out tablets for their pair? Do we allow them to remove the devices? (If lost/stolen $250, etc.)
+* Jan: Poke stacked students about syllabus (or, provide a template/suggestion.)
 
-* What is involved in collecting data in Google Spreadsheet and moving it around? How do we collect initial survey data? What is it for?
+* Do students check out tablets for their pair? Do we allow them to remove the devices? (If lost/stolen $250, etc.)  
 
-* Develop a scaled down active reading process and template.
+* Matt: What is involved in collecting data in Google Spreadsheet and moving it around? How do we collect initial survey data? What is it for?
 
-* Develop active reading prompts for first reading.
+* Jan: Revise student info sheet and put into dropbox + picture named username-photo.
 
-* Write the roles, what they sound like, etc.
+* Jan: Write the roles, what they sound like, etc.
 
-* How do they capture images/sounds outside of class during the first week? Check out cameras?
+* How do they capture images/sounds outside of class during the first week? Check out cameras? (Audacity documentation?)
+
+* Both: Look again at Tuesday homework.
+
+
