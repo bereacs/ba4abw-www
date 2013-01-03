@@ -9,3 +9,5 @@ layout: default
 *{{site.title}}* ...
 
 Woot! This course is about something!
+
+I am adding this line as a test of my site-build.
