@@ -32,7 +32,7 @@ arse:
 
 moodle:
     link: '<strong>Moodle Link</strong>: <a href="http://moodle.berea.edu/course/view.php?id=1727">http://moodle.berea.edu/course/view.php?id=1727</a>'
-    root: http://moodle.berea.edu/course/view.php?id=1727 
+    url: http://moodle.berea.edu/course/view.php?id=1727
 
 
 # http://db.tt/zgUQOl6A

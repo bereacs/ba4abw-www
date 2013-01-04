@@ -10,7 +10,7 @@
 
 * Matt: What is involved in collecting data in Google Spreadsheet and moving it around? How do we collect initial survey data? What is it for?
 
-* Matt: Create student info Google Docs form from the 126 and 226 ones in shared DB folder.
+* Matt: Create student info Google Docs from the 126 and 226 ones in shared DB folder.
 
 * Jan: Poke stacked students about syllabus (or, provide a template/suggestion.)
 
