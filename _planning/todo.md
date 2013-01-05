@@ -1,27 +1,31 @@
-* Panic
+* Panic more!
 
 * Both: Syllabus
-    * Matt: About, edit objectives, 
-    * Jan: Attendance, Technology Policies, 
+    * Matt: wreite About, edit objectives, edit Attendance
+    * Jan: Technology Policies, Atmosphere
+	
+* Both: Remove "I" words.
 
-* Matt: How can we project tablets to everyone?
-
+* Both: Get document projector.
+	
 * Matt: See google doc with other things. (Move them here.)
 
 * Matt: What is involved in collecting data in Google Spreadsheet and moving it around? How do we collect initial survey data? What is it for?
 
-* Matt: Create student info Google Docs from the 126 and 226 ones in shared DB folder.
+* Matt: Edit roles.
+
+* Jan: Read Scale-up on assessment
 
 * Jan: Poke stacked students about syllabus (or, provide a template/suggestion.)
 
-* Jan: When are tablets coming? Need to hear from AB.
+* Jan: Pick up tablets and have TAs set-up
 
-* Jan: Write the roles, what they sound like, etc.
+* Both: Look again at Tuesday/Thursday homework.
 
-* Both: Do students check out tablets for their pair? Do we allow them to remove the devices? (If lost/stolen $250, etc.)  
+## Low priority
+
+* How can we project tablets to everyone? 
 
 * Both: How do they capture images/sounds outside of class during the first week? Check out cameras? (Audacity documentation?)
 
-* Both: Look again at Tuesday homework.
-
-
+* Both: Do students check out tablets for their pair? Do we allow them to remove the devices? (If lost/stolen $250, etc.)  
