@@ -8,7 +8,7 @@ category: infra
 
 <table>
 {% for post in site.posts %}
-{% if post.layout contains 'infra' %}
+{% if post.category contains 'infra' %}
 
 <tr>
   <td width="40%"><a href="{{site.base}}{{post.url}}/">{{post.title}}</a></td>
