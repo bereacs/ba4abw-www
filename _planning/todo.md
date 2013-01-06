@@ -1,23 +1,32 @@
-* Panic more!
+## Before Classes Start
+
+* Panic oodles!
+
+* Jan: Read Scale-up on assessment
+* Matt: Peer Feedback Form (Moodle Quiz)
 
 * Both: Syllabus
     * Jan: Technology Policies, Atmosphere
-	
-* Both: Remove "I" words.
-
-* Both: Get document projector.
-	
-* Matt: See google doc with other things. (Move them here.)
-
-* Matt: What is involved in collecting data in Google Spreadsheet and moving it around? How do we collect initial survey data? What is it for?
-
-* Jan: Read Scale-up on assessment
-
+		
 * Jan: Poke stacked students about syllabus (or, provide a template/suggestion.)
 
-* Jan: Pick up tablets and have TAs set-up
-
 * Both: Look again at Tuesday/Thursday homework.
+
+* WHat happens when peer evals don't happen on time. (Zero the person who is late.) Process lead should be making sure everyone does this. (Can't 5% bonus if all team evals are not in on time.)
+
+## Mon, Jan 7
+
+* Both: Get document projector.
+
+* Fix the room.
+
+## Thu, Jan 10
+
+* Jan: Pick up tablets and have TAs set-up
+* Assign roles and teams for first group
+* Avacado Tart, Brownie, Cupcake, Donut, Eclair, Froyo, Gingerbread, Honeycomb, Ice Cream Sandwich, Jellybean, Kettle Corn, Licorice
+* Matt: What is involved in collecting data in Google Spreadsheet and moving it around? How do we collect initial survey data? What is it for?
+* Matt: Write John/Kevin about server
 
 ## Low priority
 

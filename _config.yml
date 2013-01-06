@@ -54,7 +54,7 @@ cloud: '<i class="icon-cloud" style="margin-top: 6px;"> </i>'
 cart: '<i class="icon-shopping-cart" style="margin-top: 6px;"> </i>'
 stethoscope: '<i class="icon-stethoscope" style="margin-top: 6px;"> </i>'
 arrow-right: '<i class="icon-arrow-right" style="margin-top: 6px;"> </i>'
-
+check: '<i class="icon-ok" style="margin-top: 6px;"> </i>'
 
 # Server Config
 permalink: /:categories/:title
