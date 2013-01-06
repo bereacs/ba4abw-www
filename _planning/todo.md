@@ -7,12 +7,13 @@
 
 * Both: Syllabus
     * Jan: Technology Policies, Atmosphere
+	* Team process not included in syllabus.  Where is syllabus constructed?
 		
 * Jan: Poke stacked students about syllabus (or, provide a template/suggestion.)
 
 * Both: Look again at Tuesday/Thursday homework.
 
-* WHat happens when peer evals don't happen on time. (Zero the person who is late.) Process lead should be making sure everyone does this. (Can't 5% bonus if all team evals are not in on time.)
+* Matt; Write this up.  WHat happens when peer evals don't happen on time. (Zero the person who is late.) Process lead should be making sure everyone does this. (Can't 5% bonus if all team evals are not in on time.)
 
 ## Mon, Jan 7
 

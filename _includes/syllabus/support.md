@@ -1,0 +1,9 @@
+## Evening Lab Support
+
+<img src="{{site.base}}/images/craft-lab-icon.png" align="right"/>
+
+The Computing and Digital Crafts Lab is **open Sunday through Thursday from {{site.lab-hours}}** (except on evenings of convocations). The primary teaching assistant and several other TAs will be able to answer questions about the content in the course during consultations in their  Lab hours. You are strongly encouraged to make use of the help available in the Computing and Digital Crafts Lab, as well as in the instructors' office hours. Best results are obtained trying to solve problems before asking for help, and you should be prepared to show what you have already tried. Topics in this course build throughout the course, so you should be sure to do your best to keep up with the class, so as to not fall behind. No question to which you do not know the answer is "dumb" unless it goes unanswered because it remained unasked. 
+
+## Disability Support
+
+Students who have a disability that may prevent them from fully demonstrating their abilities should contact Cindy Reed, MSW, LCSW, the Disability Services Coordinator at (859) 985-3212, or by email at <a href="mailto:cynthia-reed@berea.edu">cynthia-reed@berea.edu</a>, to discuss accommodations necessary to ensure full participation in this course.  Upon request, this syllabus can be made available in alternative forms.
