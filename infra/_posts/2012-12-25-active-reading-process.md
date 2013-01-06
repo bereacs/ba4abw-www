@@ -13,7 +13,7 @@ In *Active Reading Skills* by Kathleen McWhorter, she identifies the key charact
 	<img src="{{site.base}}/images/active-vs-passive-readers.png" align="center">
 </div>
 
-I don't know which you are, but I know which you should aspire to be. What follows is the process we will employ in all of our reading assignments, and it is intended to help you practice becoming an efficient and effective active reader.
+**You should practice being an active reader**. What follows is the process you will use in all of the reading assignments this term, and it is intended to help you practice becoming an efficient and effective active reader.
 
 ## The {{site.short}} Active Reading Process
 
