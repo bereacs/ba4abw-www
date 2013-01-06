@@ -1,7 +1,6 @@
 * Panic more!
 
 * Both: Syllabus
-    * Matt: wreite About, edit objectives, edit Attendance
     * Jan: Technology Policies, Atmosphere
 	
 * Both: Remove "I" words.
@@ -11,8 +10,6 @@
 * Matt: See google doc with other things. (Move them here.)
 
 * Matt: What is involved in collecting data in Google Spreadsheet and moving it around? How do we collect initial survey data? What is it for?
-
-* Matt: Edit roles.
 
 * Jan: Read Scale-up on assessment
 
