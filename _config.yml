@@ -68,5 +68,5 @@ prof-phones: ['925-238-3692', '859-985-3569']
 prof-offices: ['Danforth 102B', 'Danforth 102C']
 prof-office-hours: ['W 13:00-15:00 and R 10:00-12:00', 'TR 10:00-10:50 and MF: 9:30-10:20']
 prof-emails: ['jadudm@berea', 'pearcej@berea']
-berea-cs-url: http://cs.berea.edu/
+berea-cs-url: "http://www.berea.edu/csc/"
 lab-hours: "7:30 to 9:30 PM"
