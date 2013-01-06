@@ -51,8 +51,10 @@ prof: '<i class="icon-bullhorn" style="margin-top: 6px;"> </i>'
 video: '<i class="icon-camera" style="margin-top: 6px;"> </i>'
 download: '<i class="icon-download-alt" style="margin-top: 6px;"> </i>'
 cloud: '<i class="icon-cloud" style="margin-top: 6px;"> </i>'
-cart: '<i class="icon-shopping-cart" style="margin-top: 6px;"></i>'
-stethoscope: '<i class="icon-stethoscope" style="margin-top: 6px;"></i>'
+cart: '<i class="icon-shopping-cart" style="margin-top: 6px;"> </i>'
+stethoscope: '<i class="icon-stethoscope" style="margin-top: 6px;"> </i>'
+arrow-right: '<i class="icon-arrow-right" style="margin-top: 6px;"> </i>'
+
 
 # Server Config
 permalink: /:categories/:title

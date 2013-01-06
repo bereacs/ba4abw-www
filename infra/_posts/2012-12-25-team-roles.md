@@ -17,12 +17,6 @@ Jump To:
 * [Entrepreneur](#entrepreneur)
 * [Pair Programming](#pair-programming)
 
-* Process Lead (Driver P/A) 
-* Advocate (Navigator P/A)
-
-* Documentation Lead (Driver D/E)
-* Entrepreneur (Navigator D/E)
-
 ---------------------------------
 
 ### Process Lead
@@ -100,9 +94,25 @@ Jump To:
 
 ### Pair Programming
 
-... blah blah ...
+While we work in groups of four, it really works best if we write code in groups of two. One of you will become the **Driver** (who sits at the keyboard) and the **Navigator** (who keeps the Driver honest).
 
-#### Driver: 
+#### The Team Breakdown
+
+You should end up playing both roles at multiple points throughout the semester.
+
+##### Green Team
+
+* Process Lead {{site.arrow-right}} Driver 
+* Advocate  {{site.arrow-right}} Navigator
+
+##### Purple Team
+
+* Documentation Lead  {{site.arrow-right}} Driver
+* Entrepreneur  {{site.arrow-right}} Navigator
+
+#### The Driver
+
+As the Driver, you take the lead on the writing of the code. This does not mean you take the lead on *planning* the code, or that you do all of the work. It just means you're at the keyboard.
 
 * Works at the keyboard to create the App Inventor code
 * Leads sequence of steps following the coding plan
@@ -122,13 +132,15 @@ Jump To:
 
 #### Navigator:
 
+As the Navigator, it is your job to keep your mind on the design. The Driver will invariably get confused at some point by all the buttons and things on the screen; when that happens, you help them figure out their problems and get them back on track to solving the actual problem you're trying to tackle.
+
 * Helps to actively debug the program while program creation is occurring
 * Thinks of alternative ways to express the App Inventor code
 * Summarizes the pair's discussion and conclusions
 * Helps by managing time
 * When pair's motivation is low, uses humor, enthusiasm, or suggest a new idea to energize the pair
 
-##### Navigator sounds like:
+##### Things a Navigator might say
 
 * "Shouldn't that be a different block?"
 * "What about expressing the App Inventor code in this other way?"
