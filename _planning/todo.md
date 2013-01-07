@@ -1,20 +1,45 @@
-## Before Classes Start
+## RIGHT NOW
 
-* Panic oodles!
+* Panic heaps!
+
+* Matt: Collab and teamwork fixes (find the FIXME)
+
+* Jan: Write this up IN SYLLABUS?  What happens when peer evals don't happen on time. (Zero the person who is late.) Process lead should be making sure everyone does this. (Can't 5% bonus if all team evals are not in on time.)
+
+* Matt: Human Bingo Sheet
+
+* Jan: Describe a Drawing (be ready to run it)
+
+* Jan: Turn on Moodle, AstroidBoy -> Astro Boy
+
+## Wed, Jan 9
+
+* Introduce Team Time (5-10m)
+  * Only introduce this activity... talk about team roles in a bit.
 
 * Jan: Peer Feedback Form --Google docs
+  * http://www.schreyerinstitute.psu.edu/pdf/Team_Peer_Evaluation_Examples.pdf
 
-* Both: Final? <GRIN> syllabus review
 
-* Both: Look again at Tuesday/Thursday homework.
+### In Class
+* Matt: Run a light "testing protocol" on an app. Or, more than one.
+  * More than one kind of app: a game, a productivity app, etc.
+  * Get them thinking about: 
+    * why did the designer make choices
+    * what appeals to them 
+    * who was this designed for?
 
-* Matt; Write this up IN SYLLABUS?  WHat happens when peer evals don't happen on time. (Zero the person who is late.) Process lead should be making sure everyone does this. (Can't 5% bonus if all team evals are not in on time.)
+* Jan: "My My Berea"
+  * Use the sights and sounds of Berea to tell a friend or loved one back home about your experience so far at Berea. Capture one or more pictures and sounds that tell the story. No more than three of each. Sounds no longer than 10 seconds each.
+  * Capture the sounds and pictures over the weekend.
 
-## Mon, Jan 7
+* Jan: Make sure android setup stuff is good to go.
 
-* Both: Get document projector.
+### Homework
+* Matt: Affective reflective document/survey
+  * Try and capture all four aspects of the (tech, teamwork, etc.)
 
-* Fix the room.
+* Matt: Read Krug Chapters 1 - 4 + Video + Prompts
 
 ## Thu, Jan 10
 

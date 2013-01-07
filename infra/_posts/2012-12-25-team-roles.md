@@ -36,7 +36,7 @@ Jump To:
 
 ----------------------------------------------------------------
 
-### Advocate: 
+### Advocate 
 
 * Makes sure all likely user experiences are explored
 * Suggests alternative approaches or concerns with suggested designs
@@ -44,7 +44,7 @@ Jump To:
 * Questions designs and understanding
 * Ensures all facets of possible user questions and misconceptions are explored
 
-### Advocate sounds like:
+### Things an Advocate might say
 
 * "Can we visualize this problem differently?"
 * "Does anyone want me to explain what's helpful about this layout?"
@@ -54,7 +54,7 @@ Jump To:
 
 ------------------------------------------------------------------
 
-### Documentation Lead:
+### Documentation Lead
 
 * Records thinking and team process
 * Checks for understanding of all team members
@@ -64,7 +64,7 @@ Jump To:
 * Verifies that all team members understand and agree
 * Submits reports for the team
 	
-### Documentation Lead sounds like:
+### Things a Documentation Lead might say
 
 * "Do we agree that this prototype is what we want?"
 * "Before we go on, do we all understand and agree with what is written so far?"
@@ -75,14 +75,14 @@ Jump To:
 
 -----------------------------------------------------------------------
 
-### Entrepreneur:
+### Entrepreneur
 
 * Summarizes the team's vision and the team's discussion of how to realize the vision.
 * Maintains team's energy while working through encouragement, humor, enthusiasm, etc.
 * Summarizes the planning and results.
 * Works with the team to develop an "elevator speach" to pitch the design/ purpose, etc.
 
-### Entrepreneur sounds like:
+### Things an Entrepreneur might say
 
 * "So, we started with the campus layout, and proceeded to..."
 * "You have a very insightful idea."
@@ -130,7 +130,7 @@ As the Driver, you take the lead on the writing of the code. This does not mean 
 
 -------------------------
 
-#### Navigator:
+#### Navigator
 
 As the Navigator, it is your job to keep your mind on the design. The Driver will invariably get confused at some point by all the buttons and things on the screen; when that happens, you help them figure out their problems and get them back on track to solving the actual problem you're trying to tackle.
 
