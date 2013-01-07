@@ -5,8 +5,6 @@
 * Jan: Peer Feedback Form --Google docs
 
 * Both: Final? <GRIN> syllabus review
-		
-* Jan: Poke stacked students about syllabus (or, provide a template/suggestion.)
 
 * Both: Look again at Tuesday/Thursday homework.
 
