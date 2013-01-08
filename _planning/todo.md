@@ -2,8 +2,6 @@
 
 * Panic heaps!
 
-* Matt: Collab and teamwork fixes (find the FIXME) -need a section or at least a line on the teamwork bonus
-
 * Matt: Human Bingo Sheet
 
 * Jan: Describe a Drawing (be ready to run it)
