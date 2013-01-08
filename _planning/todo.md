@@ -2,15 +2,12 @@
 
 * Panic heaps!
 
-* Matt: Collab and teamwork fixes (find the FIXME)
-
-* Jan: Write this up IN SYLLABUS?  What happens when peer evals don't happen on time. (Zero the person who is late.) Process lead should be making sure everyone does this. (Can't 5% bonus if all team evals are not in on time.)
+* Matt: Collab and teamwork fixes (find the FIXME) -need a section or at least a line on the teamwork bonus
 
 * Matt: Human Bingo Sheet
 
 * Jan: Describe a Drawing (be ready to run it)
 
-* Jan: Turn on Moodle, AstroidBoy -> Astro Boy
 
 ## Wed, Jan 9
 
