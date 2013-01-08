@@ -14,7 +14,8 @@ markdown: kramdown
 # Colors
 borders: "#911"
 highlight: "#C33"
-links: "#B22"
+# links: "#B22"
+links: "#138024"
 strong: "#735"
   
 # Paths
