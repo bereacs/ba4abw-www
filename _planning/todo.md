@@ -2,11 +2,6 @@
 
 * Panic heaps!
 
-* Matt: Human Bingo Sheet
-
-* Jan: Describe a Drawing (be ready to run it)
-
-
 ## Wed, Jan 9
 
 * Introduce Team Time (5-10m)

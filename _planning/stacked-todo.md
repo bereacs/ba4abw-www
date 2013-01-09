@@ -23,11 +23,9 @@
 * Copy fixed contracts
     
 # GGE 
-* jan: announcement to group gge
 
 * Stacked Roles
     * Similar but different for each course
-    * Doing something
     
 ## For Later
 * indiv: meet with Chad
