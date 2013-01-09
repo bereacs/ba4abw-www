@@ -26,7 +26,7 @@ To use App Inventor, you need to have a Google or a gmail account.  If you do no
 
 Before you can use App Inventor, you need to install some software on your computer. The software you need is provided in a package called App Inventor Setup.
 
-1. The download is going to be quite large (90 MB), so we strongly recommend connecting your laptop with an Ethernet cable.  (It will be much, much, much faster over an Ethernet cable than over Berea’s wireless.)
+1. The download is going to be quite large (90 MB), so we strongly recommend connecting your laptop with an Ethernet cable.  (It will be much, much, much faster over an Ethernet cable than over Berea's wireless.)
 
 1.     After you have connected with an Ethernet cable, download the installer from [http://dl.google.com/dl/appinventor/installers/windows/appinventor_setup_installer_v_1_2.exe](http://dl.google.com/dl/appinventor/installers/windows/appinventor_setup_installer_v_1_2.exe)
 
