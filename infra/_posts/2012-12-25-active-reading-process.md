@@ -53,7 +53,7 @@ In the second pass, you need to do a critical read of the text. In this pass, yo
 
 * **Ask questions**. In the margin (or at the end of sections/chapters) you might be left with questions. Write them down. They're often good starting points for further research and learning.
 
-#### Reflect and Rhuminate
+#### Reflect and Ruminate
 
 In {{site.short}}, we will often ask you to reflect and write about what you've read. After two passes through the reading, you should be ready to reflect meaningfully on what you've read. To do that, we've provided you with the Active Reading Support Environment.
 
