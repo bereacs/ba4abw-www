@@ -20,7 +20,7 @@ category: assignment
     {% capture assignment_date %} {{ post.date | date: "%Y-%m-%d" }} {% endcapture %}
     {% capture subtraction %} {{ post.date | date: "%Y%m%d" | minus: site.upto }} {% endcapture %}
     {% if subtraction contains "-" %}
-      {% if post.category contains 'assignment' or post.category contains 'reading' or post.category contains 'lab' or post.category contains 'week' %}
+      {% if post.category contains 'week' %}
       <tr>
         {% if post.category contains 'setup' %}
           <td width="2%"><i style="color: #666666;" class="icon-wrench icon-huge"></i></td>

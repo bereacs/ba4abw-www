@@ -1,11 +1,14 @@
 ## RIGHT NOW
 
-* Panic heaps!
+* Jan: Installation of App Inventor writeup
+
+* Jan: debrief stoves
+
+* Matt: Protocol for testing apps (in class)
+
+* Matt: Reading prompt for Krug
 
 ## Wed, Jan 9
-
-* Introduce Team Time (5-10m)
-  * Only introduce this activity... talk about team roles in a bit.
 
 * Jan: Peer Feedback Form --Google docs
   * http://www.schreyerinstitute.psu.edu/pdf/Team_Peer_Evaluation_Examples.pdf
