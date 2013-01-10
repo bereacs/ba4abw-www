@@ -6,7 +6,6 @@ URI=berea.mobi
 upload:
 	jekyll
 	rsync -vaz --exclude week/ -e ssh _site/ ${USER}@${URI}:~/${URI}/${SITE}
-	scp ${MEDIA}/.htaccess ${USER}@${URI}:~/${URI}/${SITE}/${MEDIA}/
 
 commit:
 	git commit -a -m "$M"
