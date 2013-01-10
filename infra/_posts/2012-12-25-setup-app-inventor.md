@@ -16,9 +16,23 @@ To use App Inventor, you need to have a Google or a gmail account.  If you do no
     * First, visit the Java test page at [http://www.java.com/en/download/help/testvm.xml](http://www.java.com/en/download/help/testvm.xml) 
     * You should see a message like the following that Java is working and that the version is up to date:
     
-    <img src="{{site.base}}/images/java-is-working.png" />
-    
-    * If you see that image, pushing the button  <img src="{{site.base}}/images/java-launch.png" /> (on the same page, clicking [http://beta.appinventor.mit.edu/learn/setup/misc/JWSTest/AppInvJWSTest.html](http://beta.appinventor.mit.edu/learn/setup/misc/JWSTest/AppInvJWSTest.html) should launch Notepad.
+    <img src="{{site.base}}/images/java-is-working.png" alt="Your Java is Working"/>
+	
+    If the page instead indicates that you are running an older version, you must download the newest version of Java and install.
+	
+    * Next, run the AppInventor Java test by clicking: 
+	[http://beta.appinventor.mit.edu/learn/setup/misc/JWSTest/AppInvJWSTest.html](http://beta.appinventor.mit.edu/learn/setup/misc/JWSTest/AppInvJWSTest.html)
+	
+	This page has two parts.  It will first check that your browser is properly configured to run Java.  You should see:
+	
+	Part I: App inventor is checking your browser for running programs with Java Web Start. _Checking_
+	
+	<img src="{{site.base}}/images/browser-config-good.png" alt="Your browser appears to be configured properly"/>
+
+
+
+	
+	If you see that image, pushing the button  <img src="{{site.base}}/images/java-launch.png" alt="launch" /> (on the same page, clicking [http://beta.appinventor.mit.edu/learn/setup/misc/JWSTest/AppInvJWSTest.html](http://beta.appinventor.mit.edu/learn/setup/misc/JWSTest/AppInvJWSTest.html) should launch Notepad.
 
 1. App Inventor will not work on your computer if these tests do not succeed. Don't go on to try to use App Inventor until you've dealt with the issue.
 
@@ -39,4 +53,4 @@ Before you can use App Inventor, you need to install some software on your compu
 In your web browser, go to the App Inventor website at [http://beta.appinventor.mit.edu](http://beta.appinventor.mit.edu).
 Since this is the first time you've used App Inventor, it will ask for permission to connect to your Google account.  You will need to sign in and connect, and then you'll see the Projects page, with no projects in it yet. Your project page should look like this:
 
-<img src="{{site.base}}/images/app-inventor-projects.png" />
+<img src="{{site.base}}/images/app-inventor-projects.png" alt="App Inventor Welcome"/>
