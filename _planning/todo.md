@@ -1,4 +1,12 @@
+##  SIMPLE VERSION OF NEXT WEEK
+
+Tuesday: Get things to work, read AI chap 00 and 01 for Thurs
+
+Thursday: Hello Purr, Design activity for My Berea. Read Krug 5-9 over weekend.
+
 ## RIGHT NOW
+
+* bereacs account info? (send that to Jan)
 
 * Matt: Command line tutorial for Git.
 
