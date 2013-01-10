@@ -8,6 +8,35 @@ category: assignment
 
 <!-- http://fortawesome.github.com/Font-Awesome/#integration --> 
 
+
+<table>
+{% for post in site.posts %}
+  {% if post.publish contains "yes" %}
+  <tr>
+    {% if post.category contains 'week' %}
+
+    <td width="2%"> <i style="color: #333399;" class="icon-calendar icon-huge"> </i> </td> 
+    <td width="38%"> End of {{post.title}} </td>
+    <td width="45%"> <em> {{post.slug}} </em> </td>
+    
+    {% elsif  post.category contains 'day' %}
+    
+    {% capture anchor %} {{post.title | downcase | replace: ' ', '-'}} {% endcapture %}
+    {% capture assignment_date %} {{ post.date | date: "%Y-%m-%d" }} {% endcapture %}
+    {% capture pgdate %} {{post.date | date: "%A, %b %d"}} {% endcapture %}
+
+    <td width="2%"> <i style="color: #333399;" class="icon-beaker "> </i> </td>     
+    <td width="38%"> <a href="{{site.base}}{{post.url}}/">{{pgdate}}</a> </td>
+    <td width="45%"> <small>{{post.title}}</small> </td>
+      
+    {% endif %}
+  {% endif %}
+</tr>
+{% endfor %}
+</table>
+
+
+{% comment %}
 <table>
   <tr bgcolor="#DDDDDD">
     <td></td>
@@ -45,14 +74,4 @@ category: assignment
   {% endfor %}
   </table>
 
-
-<!-- 
-{% for post in site.posts %}
-  {% if post.category contains 'assignment' %}
-  <h2 id="{{post.url}}">{{post.title}}</h2>
-  <p><strong>Due:</strong> {{post.date | date: "%a, %b %d" }}</p>
-  <p>{{post.slug}}</p>
-  <p><a href="{{site.base}}{{post.url}}/">Read More...</a></p>      
-  {% endif %}
-{% endfor %}
--->
+{% endcomment %}
