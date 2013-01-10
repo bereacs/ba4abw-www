@@ -2,6 +2,16 @@
 
 * Matt: Command line tutorial for Git.
 
+STUDENT QUESTIONS (MATT INTEGRATE?)
+
+* Add the TAs to the course website.
+  * DR, NH, CA
+* What can we expect from exams and final?
+* Minimum window on exam time?
+* Role rotation and team shuffle? How does that work?
+* Peer evals: convert to team eval.
+
+
 ## Wed, Jan 9
 
 * Jan: Peer Feedback Form --Google docs
