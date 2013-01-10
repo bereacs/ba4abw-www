@@ -1,10 +1,6 @@
 ## RIGHT NOW
 
-* Jan: Installation of App Inventor writeup
-
-* Jan: debrief stoves
-
-* Matt: Reading prompt for Krug
+* Matt: Command line tutorial for Git.
 
 ## Wed, Jan 9
 
