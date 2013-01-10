@@ -4,8 +4,6 @@
 
 * Jan: debrief stoves
 
-* Matt: Protocol for testing apps (in class)
-
 * Matt: Reading prompt for Krug
 
 ## Wed, Jan 9
