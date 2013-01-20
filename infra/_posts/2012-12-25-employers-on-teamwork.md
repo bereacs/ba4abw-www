@@ -20,4 +20,4 @@ Today's employers are looking for team players who have strong communication ski
 9. ability to create and/or edit written reports; and 
 10. ability to sell or influence others. 
 
-Source: Job Outlook 2012, National Association of Colleges and Employers: [http://www.naceweb.org/s10262011/candidate_skills_employer_qualities/](http://www.naceweb.org/s10262011/candidate_skills_employer_qualities/)
+Source: Job Outlook 2012, National Association of Colleges and Employers: [http://www.naceweb.org/s10262011/candidate_skills_employer_qualities/](http://www.naceweb.org/s10262011/candidate_skills_employer_qualities/).
