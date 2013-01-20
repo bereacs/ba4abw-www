@@ -17,6 +17,8 @@ Jump To:
 * [Entrepreneur](#entrepreneur)
 * [Pair Programming](#pair-programming)
 
+Note that survey's indicate that employers place high value on the ability to work collaboratively in teams.  See [top ten candidate skills according to employers]({{site.base}}/infra/employers-on-teamwork/)
+
 ---------------------------------
 
 ### Process Lead
