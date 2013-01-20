@@ -1,3 +1,51 @@
+## Jan 20, 2013
+
+### Unordered Bits
+
+These notes don't make sense to me, but were a list:
+
+* Errors? Doesn't work?
+* Team Process
+* Contracts
+* New groups Tuesday (re: previous)
+* Email students who have been absent (re: previous)
+* Drivers
+
+### Tuesday
+
+TT: Submission Details
+
+Presentations (3x ~20m)
+New Teams
+- Intro (5m)
+- Contracts (20m)
+- Design/Plan Whack-a-Mole variant
+
+#### FOR THURS
+Read Krug 7-9
+Begin W.a.M
+
+### Thursday
+
+TT: Driver installation (30m)
+
+Practice Testing on W.A.M (~20m)
+
+Test: Electronics vs. BA4ABW websites (~20m)
+
+Test out tablets (30m)
+
+#### OVER THE WEEKEND
+
+New Game
+Tues: Test w/ stacked students (like a presentation, but instead is a lo-impact test a la Krug)
+
+--------
+
+EVERYTHING BELOW WAS WRITTEN PRIOR TO JAN 20, 2013
+
+--------
+
 ##  SIMPLE VERSION OF NEXT WEEK
 
 Tuesday: Get things to work, read AI chap 00 and 01 for Thurs
