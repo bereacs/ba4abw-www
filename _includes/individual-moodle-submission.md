@@ -3,4 +3,4 @@ Your work should be completed individually and uploaded to Moodle. Follow the na
 
 For example, if we say the assignment should be called **username-purple-green.docx**, then Matt would name it **jadudm-purple-green.docx**. 
 
-You may submit Word documents (.docx, .doc) or Open Office documents (.odt).
+You may submit Word documents (.docx, .doc) or Open Office documents (.odt). If you wrote your assignment using Google Docs, a PDF ({{site.pdf}}) is just fine, too.
