@@ -7,6 +7,14 @@ layout: infra
 
 If your tablet is set-up, jump to: [install-drivers-for-live-demoing](#install-drivers-for-live-demoing)
 
+## Install Drivers for Live Demoing
+
+<div style="background-color: #FF0;">Please install the drivers before plugging in the tablet, or bad things will happen.</div>
+
+For use with a Mac, you will probably not need to do this part.
+
+For use with Windows 7, install [PDANet](http://pdanet.co/bin/PdaNetZ350.exe), which is a popular tethering software.  You will need to connect the tablet during the installation.  After the installation, you should be able to connect your Android to live demo your app. 
+
 ## Set-up the Android Phone or Tablet
 
 This document is intended to guide the setup of and Android tablet for use with App Inventor in a Windows 7 development environment.  
@@ -31,11 +39,6 @@ Change the following in Developer Settings:
 
 Do all updates of the Android operating system and of the installed Apps. 
 
-## Install Drivers for Live Demoing
-
-For use with a Mac, you will probably not need to do this part.
-
-For use with Windows 7, install [PDANet](http://pdanet.co/bin/PdaNetZ350.exe), which is a popular tethering software.  You will need to connect the tablet during the installation.  After the installation, you should be able to connect your Android to live demo your app. 
 
 
 
