@@ -1,6 +1,6 @@
 ---
-title: Lightweight App Testing
-slug: Hey! This doesn't work AT ALL!
+title: "Lightweight App Testing"
+slug: "Hey! This doesn't work AT ALL!"
 category: infra
 layout: infra
 ---

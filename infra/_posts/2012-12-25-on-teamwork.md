@@ -1,6 +1,6 @@
 ---
-title: Teamwork Tools
-slug: its what employers want...
+title: "Teamwork Tools"
+slug: "its what employers want..."
 category: infra
 layout: infra
 ---

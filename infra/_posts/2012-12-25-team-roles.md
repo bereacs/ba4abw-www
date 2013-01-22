@@ -1,6 +1,6 @@
 ---
-title: Team Roles
-slug: ...and the students, merely players.
+title: "Team Roles"
+slug: "...and the students, merely players."
 category: infra
 layout: infra
 ---

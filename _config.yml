@@ -1,20 +1,14 @@
-# Render up to...
-upto: "20130111"
-
 # Site Configuration
-title: Better Apps for a Better World
-tagline: Apps are made by people like you.
-
-short: BA4ABW
-number: CSC 186
+title: "Better Apps for a Better World"
+tagline: "Apps are made by people like you."
+short: "BA4ABW"
+number: "CSC 186"
 
 markdown: kramdown
-# This is the date that we render "upto."
 
 # Colors
 borders: "#911"
 highlight: "#C33"
-# links: "#B22"
 links: "#138024"
 strong: "#735"
   
@@ -22,18 +16,18 @@ strong: "#735"
 ## There are no heirarchies of variables; therefore, every
 ## path must be complete. A search-replace is necessary with
 ## any change to base.
-base: /courses/ba4abw-sp13
-media: /courses/ba4abw-sp13/media
+base: "/courses/ba4abw-sp13"
+media: "/courses/ba4abw-sp13/media"
 
 # FIXME
 arse:
-    expanded: 'Active Reading Support Environment'
-    url: '/courses/ba4abw-sp13/media/active-reading-support-environment.docx'
-    version: '1.0'
+    expanded: "Active Reading Support Environment"
+    url: "/courses/ba4abw-sp13/media/active-reading-support-environment.docx"
+    version: "1.0"
 
 moodle:
-    link: '<strong>Moodle Link</strong>: <a href="http://moodle.berea.edu/course/view.php?id=1727">http://moodle.berea.edu/course/view.php?id=1727</a>'
-    url: http://moodle.berea.edu/course/view.php?id=1727
+    link: "<strong>Moodle Link</strong>: <a href='http://moodle.berea.edu/course/view.php?id=1727'>http://moodle.berea.edu/course/view.php?id=1727</a>"
+    url: "http://moodle.berea.edu/course/view.php?id=1727"
 
 
 # http://db.tt/zgUQOl6A
@@ -59,7 +53,6 @@ arrow-right: '<i class="icon-arrow-right" style="margin-top: 6px;"> </i>'
 check: '<i class="icon-ok" style="margin-top: 6px;"> </i>'
 laptop: '<i class="icon-laptop" style="margin-top: 6px;"> </i>'
 tablet: '<i class="icon-tablet" style="margin-top: 6px;"> </i>'
-
 
 # Server Config
 permalink: /:categories/:title

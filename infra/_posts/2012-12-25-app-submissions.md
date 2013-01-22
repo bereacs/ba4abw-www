@@ -1,6 +1,6 @@
 ---
-title: App Submissions
-slug: ...then up into Moodle or ...to the Google Play store...
+title: "App Submissions"
+slug: "...then up into Moodle or ...to the Google Play store..."
 category: infra
 layout: infra
 ---

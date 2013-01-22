@@ -1,6 +1,6 @@
 ---
-title: The Active Reading Process
-slug: READING HAS A POSSE... er, process.
+title: "The Active Reading Process"
+slug: "READING HAS A POSSE... er, process."
 category: infra
 layout: infra
 ---

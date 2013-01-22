@@ -1,6 +1,6 @@
 ---
-title: Setting Up App Inventor on Windows 7
-slug: This is tricky; read carefully.
+title: "Setting Up App Inventor on Windows 7"
+slug: "This is tricky; read carefully."
 category: infra
 layout: infra
 ---

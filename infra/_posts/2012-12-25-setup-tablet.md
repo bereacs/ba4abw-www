@@ -1,6 +1,6 @@
 ---
-title: Making your Tablet work with Win7
-slug: 
+title: "Making your Tablet work with Windows 7"
+slug: "why can't things be easy?"
 category: infra
 layout: infra
 ---

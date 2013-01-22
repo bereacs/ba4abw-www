@@ -1,6 +1,6 @@
 ---
-title: Bluestacks Note
-slug: What we're up to at Berea.
+title: "Bluestacks Note"
+slug: "What we're up to at Berea."
 layout: infra
 ---
 

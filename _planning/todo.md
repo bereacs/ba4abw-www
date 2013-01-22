@@ -14,8 +14,10 @@ These notes don't make sense to me, but were a list:
 ### Tuesday
 
 TT: Submission Details
-
+Drivers
 Presentations (3x ~20m)
+
+
 New Teams
 - Intro (5m)
 - Contracts (20m)
