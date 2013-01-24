@@ -131,6 +131,9 @@ a.button { color:auto; }
   }
 }
 
+.center {
+  text-align: center;
+}
 
 @media only screen and (max-width:768px) { /* Tablet */
   .col_25,
