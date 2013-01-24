@@ -18,6 +18,7 @@ strong: "#735"
 ## any change to base.
 base: "/courses/ba4abw-sp13"
 media: "/courses/ba4abw-sp13/media"
+todo: "/courses/ba4abw-sp13/todo"
 
 # FIXME
 arse:
