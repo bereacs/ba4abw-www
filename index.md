@@ -42,7 +42,7 @@ layout: default
 {% assign dueTodayCell = "" %}
 
 {% for dueday in site.posts %}
-  {% if dueday.category contains "assignment" and dueday.date == post.date %}
+  {% if dueday.category contains "assignment" and dueday.date == post.date and dueday.publish contains "yes" %}
     {% assign foundOne = true %}
     {% capture dueTodayCell %}
     {% if dueTodayCell == "" %}
