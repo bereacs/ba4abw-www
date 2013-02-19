@@ -1,0 +1,9 @@
+#!/bin/bash
+
+for i in `find . -name \*md`
+  do
+    if [[ "$i" != *_site* ]]; then
+      git add $i
+    fi
+  done
+
