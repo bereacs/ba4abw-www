@@ -56,6 +56,7 @@ check: '<i class="icon-ok" style="margin-top: 6px;"> </i>'
 laptop: '<i class="icon-laptop" style="margin-top: 6px;"> </i>'
 tablet: '<i class="icon-tablet" style="margin-top: 6px;"> </i>'
 play: '<i class="icon-spinner icon-spin" style="margin-top: 6px;"> </i>'
+compy: '<i class="icon-laptop" style="margin-top: 6px;"> </i>'
 
 # Server Config
 permalink: /:categories/:title
