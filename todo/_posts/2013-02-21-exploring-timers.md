@@ -24,7 +24,7 @@ Along with your partner, write a program. Then, answer some questions; answering
 
 ### Create a Clock
 
-In your layout, create a label and text box. I called my text box "tbCounterValue." Then, add a clock to the app.
+In your layout, create a label and text box. For example, we called our text box "tbCounterValue." Then, add a Clock to the app. In the properrties for your Clock, change the TimeInterval to 1.
 
 ![]({{site.images}}/timer-exploration-00.png)
 
@@ -36,11 +36,11 @@ Create a global called **counter** and initialize it to zero.
 
 ### Create some Procedures
 
-To keep our code organized, we're going to create two procedures: *updateCounter* and *updateDisplay*. We were asked in class "how do you break down your code into smaller pieces?" A short answer related to this could be "use procedures."
+To keep our code organized, we're going to create two procedures: *updateCounter* and *updateDisplay*. We were asked in class "how do you break down your code into smaller pieces?" A short answer to this question could be "use procedures."
 
 ![]({{site.images}}/timer-exploration-03.png)
 
-You're now ready for a series of explorations and questions. We may ask you to return to this skeleton as you explore. **As a pair, capture the answers to the questions below in a Word/OpenOffice/Google document**.
+You're now ready for a series of explorations and questions. **As a pair, capture the answers to the questions below in a Word/OpenOffice/Google document**.
 
 ## Count and Reset
 
@@ -55,7 +55,7 @@ Your first task is to do the following:
 
 One way that we could slow this down is to change the timer interval.
 
-1. In the *Initialize* handler, set the timer interval so that the counter is only incremented once per second.
+1. In the *Initialize* handler, set the timer interval so that the counter is only incremented once per second. There is a block in the Clock menu for setting the TimeInterval; please use this rather than changing the property in the layout.
 
 **Question**: What are the units of the timer? 
 
@@ -79,24 +79,24 @@ Finally, we're going to do something a bit new. This sets you up for thinking ab
 
 1. Create a new global variable; call it **slowCounter**.
 1. Every time you reset the counter, increment **slowCounter**.
-1. Modify your program so that you put the value of **slowCounter** in the text box, instead of the value of the **counter**.
+1. Modify your program so that you put the value of **slowCounter** into the text box, instead of the value of the **counter**.
 
 **Question**: How often does the text box update now?
 
 ## Final Mindbender
 
-This last exploration will probably bend your mind a bit. Or, perhaps it will remind you of math you did when you were in 4th grade. Give this a try, and see what happens.
+This last exploration will probably bend your mind a bit. Give this a try, and see what happens.
 
-1. Reset the clock interval so it runs at full speed.
-1. Every time the clock ticks, update the **counter**.
-1. Every time the clock ticks, update **slowCounter** as shown below.
+1. Reset the Clock TimerInterval so it runs at one millisecond.
+1. Every time the Clock ticks, update the **counter**.
+1. Every time the Clock ticks, update **slowCounter** as shown below.
 1. In **updateDisplay**, show the value of **slowCounter**.
 
 ![]({{site.images}}/timer-exploration-04.png)
 
-In the previous section, you made the clock tick very slowly --- once every second. In this code, the clock runs at full speed (ticking once every millisecond). Every time the clock ticks, you update the **counter**. However, you also update the **slowCounter** using a **remainder**.
+In the previous section, you made the clock tick very slowly --- once every second. In this code, the clock runs at full speed (ticking once every millisecond). The code pictured above updates the **counter** every millisecond, and it also updates the **slowCounter** using a **remainder**.
 
-**Question**: How often does the text box update with the value of **slowCounter**?
+**Question**: How often does the text box appear to change the value of **slowCounter**?
 
 **Question**: In the **remainder** block, what happens if you change the 1000 to a 500?
 
