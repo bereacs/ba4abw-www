@@ -24,7 +24,7 @@ layout: default
 {% assign inClassCell = "" %}
 
 {% for onday in site.posts %}
-  {% if onday.title != "" and onday.date == post.date and onday.category contains "day" %}
+  {% if onday.title != "" and onday.date == post.date and (onday.category contains "day" or onday.category contains "lab") %}
     {% assign foundOne = true %}
     {% capture inClassCell %}
     {% if inClassCell == "" and onday.publish contains "yes" %}
