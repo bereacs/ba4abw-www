@@ -31,9 +31,14 @@ layout: default
         <a href="{{site.base}}{{onday.url}}">{{onday.title}}</a>
     {% elsif inClassCell == "" and onday.publish contains "no" %}
         {{onday.title}}
-    {% else %}
+    {% elsif onday.publish == "yes" %}
       {{inClassCell}}<br/>
       <a href="{{site.base}}{{onday.url}}">{{onday.title}}</a>
+    {% elsif onday.publish == "no" %}
+      {{inClassCell}}<br/>
+      {{onday.title}}
+    {% else %}
+      {{inClassCell}}
     {% endif %}
     {% endcapture %}
   {% endif %}
