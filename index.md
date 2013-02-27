@@ -11,8 +11,8 @@ layout: default
   <tr>
     <td><h2 {{hstyle}}>Date</h2></td>
     <td><h2 {{hstyle}}>Day</h2></td>
-    <td><h2 {{hstyle}}>In Class</h2></td>
     <td><h2 {{hstyle}}>Due</h2></td>
+    <td><h2 {{hstyle}}>In Class</h2></td>
   </tr>
 
 {% assign foundOne = false %}
@@ -70,12 +70,13 @@ layout: default
 {% capture postDate %}
 {{post.date | date: "%b %d"}}
 {% endcapture %}
+{% capture rowid %}{{post.date | date: "%Y:%m:%d"}}{% endcapture %}
 
-<tr>
+<tr id="{{rowid}}">
   <td>{{postDate}}</td>
   <td>{{post.date | date: "%a"}}</td>
-  <td>{{inClassCell}}</td>
   <td>{{dueTodayCell}}</td>
+  <td>{{inClassCell}}</td>
 </tr>
 {% endif %}
     
@@ -83,3 +84,29 @@ layout: default
 {% endfor %}
 </table>
 
+
+<!-- Highlight today and a few days ahead -->
+<script type="text/javascript">
+  var debug = false;
+  var cd = new Date();
+  
+  for (i = 0; i < 6; i++) {
+    
+    var mo = (cd.getMonth()+1);
+    if (mo < 10) { mo = "0" + mo; }
+    day = cd.getDate();
+    if (day < 10) { day = "0" + day; }
+    
+    var id  = cd.getFullYear() + ":" + mo + ":" + day;
+
+    if (debug) { console.log(id); }
+    
+    if (document.getElementById(id)) {
+      if (debug) { console.log("Setting: " + id); }
+      
+      document.getElementById(id).className = "currentDay";    
+    }
+    
+    cd = new Date(cd.getTime() + (24 * 60 * 60 * 1000));
+  }  
+</script>

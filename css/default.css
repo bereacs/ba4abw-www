@@ -95,6 +95,12 @@ th, td {
   border-bottom:1px solid #e5e5e5;
 }
 
+.currentDay {
+  background: #FC6;
+  font-weight: bold;
+}
+
+
 dt {
   color:#444;
   font-weight:700;
