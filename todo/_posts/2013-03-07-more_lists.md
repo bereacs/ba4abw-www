@@ -1,28 +1,28 @@
 ---
-title: "More on Quizzes"
+title: "Quiz Apps"
 slug: "more on lists"
-abbreviation: lists
+abbreviation: "quiz-apps"
 publish: "yes"
-category: assignment
+category: "assignment"
 layout: post
 ---
 
-### Task
+## Task
 
 Read Chapter 8, *Programming Lists of Data*. You can find this in Moodle in the folder **App\_Inventor\_Chapters** under Resources.
 
-### Objectives
+## Objectives
 
 1. Learn more about how we can use lists to store and access information.
 1. Gain practice with a common way that we step through a list.
 
-### How to Read in {{site.short}}
+## How to Read in {{site.short}}
 
 The active reading response environment is temporarily suspended while it is under construction. In the meantime, a Word document (or PDF, if you're exporting from Google Docs, or .odt, if you're using Open Office) is just fine.
 
 Make sure to include the name of the assignment, your name, email, and the date in the document you create.
 
-### Reflection and Rumination
+## Reflection and Rumination
 
 1. Suppose you work for the company designing this app.  Suppose also that it is being designed to be used by school children.  Fully describe one persona which could be used to guide your design process.
 
@@ -38,9 +38,9 @@ Make sure to include the name of the assignment, your name, email, and the date 
 
 1. Describe one improvement you would like to incorporate into this app.  Explain why you think this improvement would make the app better.
 
-### Submission
+## Submission
 
-**Naming Convention**: *username*-variables-{{page.abbreviation}}.docx
+**Naming Convention**: *username*-{{page.abbreviation}}.docx
 
 **Assignment**: {{page.abbreviation}}
 
