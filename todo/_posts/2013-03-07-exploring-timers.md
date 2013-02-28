@@ -2,7 +2,7 @@
 title: "Exploring Timers"
 slug: "tick tick tick"
 abbreviation: "exploring-timers"
-publish: "no"
+publish: "yes"
 category: lab
 layout: post
 ---

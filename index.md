@@ -72,7 +72,11 @@ layout: default
 {% endcapture %}
 {% capture rowid %}{{post.date | date: "%Y:%m:%d"}}{% endcapture %}
 
+{% if post.category contains "noclass" %}
+<tr id="{{rowid}}" style="background-color: #eee;">
+{% else %}  
 <tr id="{{rowid}}">
+{% endif %}
   <td>{{postDate}}</td>
   <td>{{post.date | date: "%a"}}</td>
   <td>{{dueTodayCell}}</td>
